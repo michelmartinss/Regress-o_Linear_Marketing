@@ -5,7 +5,10 @@ A análise tem como foco o investimento mensal de uma Empresa, em plataformas de
 como Youtube, Facebook e newspaper, para a prospecção de leads (pessoas
 interessadas em seus produtos). A fim de acompanhar o desempenho desses
 investimentos, a empresa registra todos os gastos com publicidade e todos os retornos
-de vendas gerados a partir desses investimentos.    
+de vendas gerados a partir desses investimentos.  
+
+Gráfico: Comparação do Y teste com o Y Preditor
+<a href="https://michelmartinss.github.io/Regressao_Linear_Marketing/grafico.html" target="_blank"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/1b2a1e41-3e6f-48bd-a232-6bd8c13500ed" alt="Gráfico"></a>
 
 Análise adotada, utiliza a metodologia CRISP DM - Cross Industry Standard Process for Data Mining    
 
@@ -26,6 +29,5 @@ Tecnologias utlizadas:
   </tr>
 </table><br>
 
-Gráfico: Comparação do Y teste com o Y Preditor
-<a href="https://michelmartinss.github.io/Regressao_Linear_Marketing/grafico.html" target="_blank"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/1b2a1e41-3e6f-48bd-a232-6bd8c13500ed" alt="Gráfico"></a>
+
 
