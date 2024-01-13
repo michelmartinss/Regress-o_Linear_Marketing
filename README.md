@@ -9,7 +9,7 @@ de vendas gerados a partir desses investimentos.
 
 Análise adotada, utiliza a metodologia CRISP DM - Cross Industry Standard Process for Data Mining    
 Tecnologias utlizadas:
-<table style="border-collapse: collapse; border: none;">
+<table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border:none;"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/95dc35b8-f655-4c0e-892b-b3713a1e2421" width="40"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/e5b9f41b-49d1-487d-abea-4a8936ca487e" width="40"></td>
