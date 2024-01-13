@@ -13,7 +13,7 @@ Tecnologias utlizadas:
 <img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/95dc35b8-f655-4c0e-892b-b3713a1e2421" width="40">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/e5b9f41b-49d1-487d-abea-4a8936ca487e" width="40">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/7f1ce22e-96bd-45ea-97c1-ea42a42505e0" width="40">&nbsp;&nbsp;&nbsp;
-<img srchttps://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/d14cf5ae-f0b9-4f5c-b545-d258344b82dc" width="40">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/64ad5af2-4a51-4587-b385-c3e5df20e4e4" width="40">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/1818bf1d-2f92-467b-afae-6af653625578" width="40">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/245c6aa4-52a4-452e-b29b-ef1d73b50524" width="40">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/f35d0fa5-f95d-4d45-a4b7-e4b699fb328e" width="40">
