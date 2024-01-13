@@ -8,6 +8,7 @@ investimentos, a empresa registra todos os gastos com publicidade e todos os ret
 de vendas gerados a partir desses investimentos.    
 
 Análise adotada, utiliza a metodologia CRISP DM - Cross Industry Standard Process for Data Mining    
+
 <img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/b757828b-dc53-43a3-aaf5-dd52375f89e8" width="80">
 
 Tecnologias utlizadas:
