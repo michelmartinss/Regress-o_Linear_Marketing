@@ -26,6 +26,6 @@ Tecnologias utlizadas:
   </tr>
 </table><br>
 
-
+Gráfico: Comparação do Y teste com o Y Preditor
 <a href="https://michelmartinss.github.io/Regressao_Linear_Marketing/grafico.html" target="_blank"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/1b2a1e41-3e6f-48bd-a232-6bd8c13500ed" alt="Gráfico"></a>
 
