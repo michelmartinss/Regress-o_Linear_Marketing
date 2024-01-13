@@ -18,5 +18,7 @@ Tecnologias utlizadas:
     <td style="border:none;"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/1818bf1d-2f92-467b-afae-6af653625578" width="80"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/245c6aa4-52a4-452e-b29b-ef1d73b50524" width="80"></td>
     <td style="border:none;"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/f35d0fa5-f95d-4d45-a4b7-e4b699fb328e" width="80"></td>
+    <td style="border:none;"><img src=(https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/4fd8096c-5f0a-4c63-a598-f785b19e6e5e" width="80"></td>
+
   </tr>
 </table>
