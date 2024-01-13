@@ -27,10 +27,5 @@ Tecnologias utlizadas:
 </table><br>
 
 
-Resultado final da comparação do Y teste com o Y preditor
-![image](https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/1b2a1e41-3e6f-48bd-a232-6bd8c13500ed)
-
-[Veja o gráfico interativo "grafico"](https://michelmartinss.github.io/Regressao_Linear_Marketing/grafico.html)
-
-<a href="https://michelmartinss.github.io/Regressao_Linear_Marketing/grafico.html" target="_blank"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/1b2a1e41-3e6f-48bd-a232-6bd8c13500ed" alt="Descrição Alternativa"></a>
+<a href="https://michelmartinss.github.io/Regressao_Linear_Marketing/grafico.html" target="_blank"><img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/1b2a1e41-3e6f-48bd-a232-6bd8c13500ed" alt="Gráfico"></a>
 
