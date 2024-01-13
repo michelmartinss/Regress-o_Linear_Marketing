@@ -7,7 +7,7 @@ interessadas em seus produtos). A fim de acompanhar o desempenho desses
 investimentos, a empresa registra todos os gastos com publicidade e todos os retornos
 de vendas gerados a partir desses investimentos.    
 
-Análise adotada, utiliza a metodologia CRISP DM - Cross Industry Standard Process for Data Mining
+Análise adotada, utiliza a metodologia CRISP DM - Cross Industry Standard Process for Data Mining    
 <img src="https://github.com/michelmartinss/Regressao_Linear_Marketing/assets/31022049/b757828b-dc53-43a3-aaf5-dd52375f89e8" width="40">
 
 Tecnologias utlizadas:
